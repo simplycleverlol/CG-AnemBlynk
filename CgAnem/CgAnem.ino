@@ -6,7 +6,6 @@
 
 #define USE_LCD // использовать дисплей 1602
 #define BLYNK_PRINT Serial
-#define ESP8266
 
 
 
